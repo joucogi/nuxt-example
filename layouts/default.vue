@@ -81,6 +81,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-format-align-justify',
+          title: 'Posts',
+          to: '/posts'
         }
       ],
       miniVariant: false,
